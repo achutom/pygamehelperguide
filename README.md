@@ -77,4 +77,5 @@ while run:
 
 pygame.quit()      
 ```
+# Output of this code  
 ![OUTPUT](pygamehelper_scale_image_output.png)
