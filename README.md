@@ -33,8 +33,7 @@ while run:
 
 pygame.quit()      
 ```
-# output of this code
-![OUTPUT]()
+
 # output of this code
 ![Output](pygamehelper_display_text_output.png)
 
