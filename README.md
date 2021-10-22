@@ -78,4 +78,4 @@ while run:
 
 pygame.quit()      
 ```
-![OUTPUT](example_image.png)
+![OUTPUT](pygamehelper_scale_image_output.png)
