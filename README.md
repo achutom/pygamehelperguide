@@ -78,3 +78,4 @@ while run:
 
 pygame.quit()      
 ```
+![OUTPUT](example_image.png)
